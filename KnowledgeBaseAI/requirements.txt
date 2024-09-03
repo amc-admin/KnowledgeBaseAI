@@ -1,0 +1,7 @@
+﻿transformers
+datasets
+torch
+fastapi
+uvicorn
+googletrans==4.0.0-rc1
+jupyter_http_over_ws
